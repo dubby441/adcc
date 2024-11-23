@@ -1,6 +1,6 @@
 #! /bin/bash
 
-echo "Hello world !, Today's is: $(date)"
+echo "Hello world and cloud engineers !, Today's is: $(date)"
 
 #varaible naming conventions
 #class=cloud
